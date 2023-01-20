@@ -4,3 +4,4 @@ selenium
 aiohttp==3.7.3
 fastapi
 uvicorn
+flake8
