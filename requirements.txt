@@ -2,3 +2,5 @@ requests
 bs4
 selenium
 aiohttp==3.7.3
+fastapi
+uvicorn
